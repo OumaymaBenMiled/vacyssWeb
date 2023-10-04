@@ -1,4 +1,4 @@
-  =>  Template Name    : FitApp - Mobile App HTML Template
+  =>  Template Name    : Vacyss - Mobile App HTML Template
 
   =>  Template Link    : https://htmlcodex.com/mobile-app-html-template
 
